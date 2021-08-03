@@ -1,0 +1,20 @@
+{
+  "name": "hello-hapi",
+  "version": "1.0.0",
+  "description": "um simples codigo para entender um pouquinho do hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "dev",
+    "qaninja",
+    "devtester"
+  ],
+  "author": "Italo lima",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
